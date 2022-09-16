@@ -82,3 +82,5 @@ Each person can work on their branch indepedently of others.
 
 # Git GUIs
 Github Desktop
+Git Cola
+VS Code
