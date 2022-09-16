@@ -84,3 +84,4 @@ Each person can work on their branch indepedently of others.
 Github Desktop
 Git Cola
 VS Code
+    Git Lens extension
